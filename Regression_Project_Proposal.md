@@ -6,7 +6,7 @@
 
 ### Who benefits from exploring this question or building this model/system?
 + NHL teams trying to identify the most efficient point scorers for potential player trades/acquisitions.
-+ Broadcasting networks that want to televise games that have higher scoring, hence teams with highest average points per 60 minutes of on-ice time per player.
++ Broadcasting networks that want to televise games that have higher scoring, hence teams that have the highest average points per 60 minutes of "on-ice" time per player.
 
 ### Data Description:
 What dataset(s) do you plan to use, and how will you obtain the data?
