@@ -31,8 +31,3 @@ How do you intend to meet the tools requirement of the project?
 ### MVP Goal:
 What would a minimum viable product (MVP) look like for this project?
 + Providing a linear regression plot that shows (hopefully) there is a positive linear correlation between the number of shot attempts and a player's points per 60 minutes of ice time.
-
-
-```python
-
-```
