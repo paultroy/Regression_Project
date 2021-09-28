@@ -10,13 +10,3 @@ Additionally, I created a two feature linear regression model with shots taken a
 + Points = .2736(shots taken) + .1275(average minutes on-ice)
 
 For next steps I plan to add additional features into my model after engineering features that I have in my existing dataset, both numeric (e.g. age) and categorical (e.g. position). If time permits, I'd like to pull in new features such as player salary and player nationality. Additionally I plan to compare model performance across different model types (i.e. linear, ridge and LASSO). 
-
-
-```python
-
-```
-
-
-```python
-
-```
