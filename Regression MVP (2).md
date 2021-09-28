@@ -3,7 +3,7 @@ For my project I am investigating the relationship between season point totals (
 
 Initial exploration of the data revealed that the number of shots taken significantly impacts the total points per season that player will earn. There appears to be a linear, or slight polynomial, relationship between shots taken per seson and total points, as the below graph shows.
 
-![Points_Shots_Taken.png](attachment:Points_Shots_Taken.png)
+![Points_Shots_Taken.png](Points_Shots_Taken.png)
 
 Additionally, I created a two feature linear regression model with shots taken and a player's average minutes on-ice per game as the features and total points as the target. The results from this model are as follows:
 + R^2 = 0.832
