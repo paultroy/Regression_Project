@@ -32,8 +32,3 @@ Hold-Out test score:
 
 ## Communication
 A brief slide deck was prepared to communicate my findings of which player stats/attributes tend to have the largest impact on an NHL player generating points (goals + assists).
-
-
-```python
-
-```
